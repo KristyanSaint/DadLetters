@@ -44,7 +44,7 @@ const App = () => {
       {animate && <HeartBurst />}
 
       <img
-        src="/src/assets/dad.jpg"
+        src="/dad.jpg"
         alt="Dad and Mom"
         className="header-image"
       />
